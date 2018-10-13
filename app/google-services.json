@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862377294521",
+    "firebase_url": "https://intelligentbot-320e3.firebaseio.com",
+    "project_id": "intelligentbot-320e3",
+    "storage_bucket": "intelligentbot-320e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862377294521:android:59df6c30ae2317ef",
+        "android_client_info": {
+          "package_name": "com.example.sunnypariharflash.intelligentbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862377294521-6pbnvghn9o6kn0m63kn9k0pea88tqpc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunnypariharflash.intelligentbot",
+            "certificate_hash": "657d47109c629d988a5f5eda0e91a2e63f350acc"
+          }
+        },
+        {
+          "client_id": "862377294521-i94mpg5fo8sqlsdfld0voeti3mjkbg2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99hQm-9OY5pFIKhZEovG5_HePUYGP6Mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862377294521-i94mpg5fo8sqlsdfld0voeti3mjkbg2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
